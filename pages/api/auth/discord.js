@@ -1,0 +1,1 @@
+// Endpoint OAuth2 Discord - aquí irá la lógica del backend
